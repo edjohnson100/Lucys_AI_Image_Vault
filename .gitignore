@@ -1,0 +1,129 @@
+# ----------------------
+# 1. Python & VS Code (The Basics)
+# ----------------------
+__pycache__/
+*.pyc
+.vscode/
+
+# Catch all virtual environments, regardless of OS suffixes or dot prefixes
+venv*/
+.venv*/
+env*/
+.env*/
+
+*.log
+
+# ----------------------
+# 2. Operating System Junk
+# ----------------------
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.Trash-*
+.fuse_hidden*
+.directory
+
+# ----------------------
+# 3. Autodesk Fusion Specifics
+# ----------------------
+*.manifest.bak
+*.lock
+
+# ----------------------
+# 4. Installer & Build Output (CRITICAL)
+# ----------------------
+Output/
+build/
+dist/
+
+# ----------------------
+# 5. Security & Local Settings
+# ----------------------
+.env
+.env.*
+!.env.example
+
+# ----------------------
+# 6. Other Misc Files
+# ----------------------
+*.af
+Archive/
+artistly_images/
+!Installers/
+Installers/*.exe
+Installers/*.msi
+Installers/*.pkg
+Installers/*.dmg
+Installers/*.zip
+Installers/*.wixpdb
+Installers/Output/
+*.exe
+*.msi
+*.pkg
+*.dmg
+*.zip
+
+# ----------------------
+# 7. Video Files
+# ----------------------
+*.mp4
+!videos/*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wmv
+*.flv
+
+# ----------------------
+# 8. Audio Files
+# ----------------------
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.ogg
+*.aac
+
+# ----------------------
+# 9. Heavy Maker & 3D Assets
+# ----------------------
+*.stl
+*.obj
+*.step
+*.stp
+*.f3d
+*.3mf
+
+# ----------------------
+# 10. Temporary & AI Files
+# ----------------------
+.claude/
+CLAUDE.md
+temp_zips/
+files.txt
+
+# ----------------------
+# 11. Databases & Local Data
+# ----------------------
+# Exclude local database and CSV data so OS states don't overwrite each other
+*.db
+*.sqlite
+*.sqlite3
+artistly_library.csv
+artistly_library_headers.csv
+
