@@ -6,11 +6,11 @@ Welcome to Lucy's AI Image Vault! This application operates completely independe
 
 ### STEP 1: Position the Application
 
-Move the LucysVault application file (`.exe` for Windows, or the `.app` package located inside your downloaded `.dmg` disk image for Mac) to its permanent home:
+Move the `Lucys_Vault` folder from your download to its permanent home:
 
-*   **For Desktop Access:** Create a dedicated folder on your Desktop named `Lucy's AI Image Vault` and place the application file inside it. This keeps your workspace clean and tidy. *(⚠️ Note: If you plan on keeping your vault completely self-contained inside this folder, please review the Cloud Backup Trap warning in STEP 3 before proceeding!)*
-*   **For Standard Storage:** Windows users can place the file inside a dedicated folder on their main `C:` drive. Mac users can drag the application icon straight into their computer's standard **Applications** folder.
-*   **For On-The-Go Storage:** If you want to use the application from an external hard drive or a portable thumb drive, move the application file directly into a folder on that specific device.
+*   **For Desktop Access:** Move the `Lucys_Vault` folder to your Desktop. This keeps your workspace clean and tidy. *(⚠️ Note: If you plan on keeping your vault completely self-contained inside this folder, please review the Cloud Backup Trap warning in STEP 3 before proceeding!)*
+*   **For Standard Storage:** Windows users can place the `Lucys_Vault` folder on their main `C:` drive. Mac users can drag the `Lucys_Vault` folder into the standard **Applications** folder.
+*   **For On-The-Go Storage:** If you want to use the application from an external hard drive or a portable thumb drive, move the `Lucys_Vault` folder directly onto that specific device.
 
 ---
 

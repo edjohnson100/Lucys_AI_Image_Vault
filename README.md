@@ -32,8 +32,8 @@ Artistly.ai automatically deletes designs from your personal library after one y
 
 ### Windows
 
-1. **Download:** Download the latest `LucysVault-Windows-v1.0.zip` from the Releases page and extract it to a location of your choice.
-2. **Run:** Double-click `LucysVault.exe`.
+1. **Download:** Download the latest `LucysVault-Windows-v1.0.zip` from the Releases page and extract it. The ZIP contains a `Lucys_Vault` folder — move it to wherever you'd like to keep the application.
+2. **Run:** Open the `Lucys_Vault` folder and double-click `LucysVault.exe`.
 3. **First Run:** Choose a storage location for your library — System Default (`%APPDATA%\LucysVault`), Documents (`~/Documents/LucysVault`), or Portable (alongside the `.exe`). This setting is permanent.
 
 > **Note:** Windows Defender SmartScreen may show a warning the first time since the app is not code-signed. Click **More info → Run anyway** to proceed.
@@ -41,10 +41,10 @@ Artistly.ai automatically deletes designs from your personal library after one y
 ### macOS
 
 1. **Download:** Download the latest `LucysVault-Mac-v1.0.dmg` from the Releases page.
-2. **Open the DMG:** Double-click the `.dmg` file to mount it. A Finder window opens with the app and an Applications folder shortcut.
-3. **Install:** Drag `LucysVault.app` into the **Applications** folder shortcut in that window.
+2. **Open the DMG:** Double-click the `.dmg` file to mount it. A Finder window opens showing the `Lucys_Vault` folder.
+3. **Install:** Drag the `Lucys_Vault` folder to your Desktop, Applications folder, or wherever you'd like to keep it.
 4. **Eject:** Drag the mounted disk image from your Desktop or Finder sidebar to Trash, or right-click and choose **Eject**.
-5. **First Launch:** Open your `/Applications` folder, right-click (or Control-click) `LucysVault.app`, choose **Open**, then click **Open** in the Gatekeeper dialog. This step is only required once.
+5. **First Launch:** Open the `Lucys_Vault` folder, right-click (or Control-click) `LucysVault.app`, choose **Open**, then click **Open** in the Gatekeeper dialog. This step is only required once.
 6. **First Run:** Choose a storage location for your library on the setup screen.
 
 > **Note:** The macOS build bundles its own Chromium browser for cloud sync automation. This makes the download significantly larger than the Windows version, but no additional browser installation is required.

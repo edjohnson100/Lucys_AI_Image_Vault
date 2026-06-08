@@ -31,7 +31,7 @@ The first time you open the app, you choose where your vault lives:
 
 This choice is permanent and set once. The vault includes both the image database and your downloaded image files.
 
-![The first-launch storage location dialog showing all three storage mode options: System Default, Documents Mode, and Portable Mode](../screenshots/first-launch-storage-picker.png)
+![The first-launch storage location dialog showing all three storage mode options: System Default, Documents Mode, and Portable Mode](screenshots/first-launch-storage-picker.png)
 *Choose where your vault lives — this dialog appears once on first launch.*
 
 ---
@@ -77,13 +77,13 @@ Nine visual themes are available from a dropdown at the bottom of the sidebar. Y
 | Birch Plywood Maker | Light warm tones with orange accents |
 | Purple Paradise | Light lavender tones with purple accents |
 
-![Cycling through several themes in sequence — Deep Space, Birch, Newsprint, and Purple Paradise — each switching the full color palette instantly](../screenshots/theme-switcher.gif)
+![Cycling through several themes in sequence — Deep Space, Birch, Newsprint, and Purple Paradise — each switching the full color palette instantly](screenshots/theme-switcher.gif)
 *Nine built-in themes — switch any time from the sidebar. Your choice persists between sessions.*
 
 ### Preferred Viewer/Editor
 An optional setting where you can enter the full path to an image viewer or editor on your computer (e.g., Affinity Photo, FastStone Image Viewer, Photoshop). A **Browse** button opens a native file picker so you can navigate directly to the application — no need to type the path manually. When set, the **Open** action in the Inspection Workbench will offer your preferred app as a one-click option alongside the system default. The path is remembered between sessions and can be cleared at any time.
 
-![The left sidebar showing active filters — a folder selected, a tool selected, and the Clear All button visible at the top of the filter section](../screenshots/sidebar-filters-active.png)
+![The left sidebar showing active filters — a folder selected, a tool selected, and the Clear All button visible at the top of the filter section](screenshots/sidebar-filters-active.png)
 *The sidebar controls what you see across all views. Active filters stack and can be cleared individually or all at once.*
 
 ---
@@ -95,7 +95,7 @@ The default view when you open the app. Displays your entire design collection a
 ### Selection Groups
 Images generated from the same prompt in the same session are grouped together as a cluster and displayed as a single card. If a cluster contains multiple variants, arrow buttons on the card let you step through them, with a counter showing your position (e.g., 2 / 4). Each variant in a cluster has its own independent favorite and flag status.
 
-![Stepping through the variants in a multi-image selection group — arrow buttons advance the counter from 1 / 4 through each variant and loop back to the start](../screenshots/variant-navigation.gif)
+![Stepping through the variants in a multi-image selection group — arrow buttons advance the counter from 1 / 4 through each variant and loop back to the start](screenshots/variant-navigation.gif)
 *Variants generated from the same prompt are grouped into a single card — step through them with the arrow buttons.*
 
 ### Pagination
@@ -118,7 +118,7 @@ Click any active action button on a card to toggle that flag on or off:
 
 Any combination of flags can be active at once. Flagged items accumulate in the Pending Actions view until you run the corresponding operation.
 
-![Opening the flag menu on several cards in sequence, toggling Move on the first, ZIP on the second, and Move on the third — each card retaining its flag badge after the menu closes](../screenshots/bulk-flagging.gif)
+![Opening the flag menu on several cards in sequence, toggling Move on the first, ZIP on the second, and Move on the third — each card retaining its flag badge after the menu closes](screenshots/bulk-flagging.gif)
 *Flag any combination of Bulk Move, Bulk Delete, and ZIP on each design independently.*
 
 ### Inspection Workbench
@@ -146,10 +146,10 @@ Two action buttons run across the bottom of the left panel:
 - Background lightness slider — a horizontal slider below the image that adjusts the panel background from pure black to pure white. Useful for evaluating images with transparency or light-colored edges. The setting persists between sessions and also affects thumbnail backgrounds in the gallery grid and Prompt Library.
 - Cluster navigation arrows and variant counter (if applicable)
 
-![The Inspection Workbench showing the left panel with metadata badges, a multi-line prompt, and Open and Copy As buttons, alongside the large image in the right panel](../screenshots/inspection-workbench-detail.png)
+![The Inspection Workbench showing the left panel with metadata badges, a multi-line prompt, and Open and Copy As buttons, alongside the large image in the right panel](screenshots/inspection-workbench-detail.png)
 *The Inspection Workbench — full metadata, full prompt, and direct access to open or copy the image file.*
 
-![Clicking Edit Metadata in the Inspection Workbench header, editing the Style and Prompt fields inline, then saving — the panel returns to read-only with the updated values](../screenshots/zoom-edit-metadata.gif)
+![Clicking Edit Metadata in the Inspection Workbench header, editing the Style and Prompt fields inline, then saving — the panel returns to read-only with the updated values](screenshots/zoom-edit-metadata.gif)
 *Edit Metadata mode — update Tool, Style, Aspect Ratio, and Prompt inline for any archived image.*
 
 ---
@@ -169,7 +169,7 @@ Each row shows:
 
 The same Search and Filter controls in the sidebar work in the Prompt Library, so you can narrow by folder, tool, style, or keyword just as you would in the gallery.
 
-![Hovering over thumbnails in the Prompt Library table — the zoomed preview pops above the table boundary without clipping, even for rows in the middle of the list](../screenshots/prompt-library-hover.gif)
+![Hovering over thumbnails in the Prompt Library table — the zoomed preview pops above the table boundary without clipping, even for rows in the middle of the list](screenshots/prompt-library-hover.gif)
 *Hover over any thumbnail in the Prompt Library for a 4× preview — it always pops above the table edge so nothing is cut off.*
 
 ---
@@ -201,7 +201,7 @@ From the card grid directly, archived images show:
 ### Add External Image
 The Archive tab includes an **Add External Image** button for importing images you generated outside of Artistly (from other AI tools, or local edits) into your vault. A form lets you enter the file path, metadata (tool, style, aspect ratio, folder), creation date, and prompt. The Style field offers autocomplete suggestions drawn from styles already in your vault, while still accepting any free-form value. The image is copied into your vault and treated like any other archived design.
 
-![Filling in the Add External Image form — selecting a file, watching the dimensions auto-populate, then typing in the Style field and selecting an autocomplete suggestion before submitting](../screenshots/add-external-image.gif)
+![Filling in the Add External Image form — selecting a file, watching the dimensions auto-populate, then typing in the Style field and selecting an autocomplete suggestion before submitting](screenshots/add-external-image.gif)
 *Add External Image — import images from any source into your vault with full metadata and autocomplete style suggestions.*
 
 ---
@@ -212,7 +212,7 @@ The operational hub for syncing with Artistly, running bulk actions, managing ba
 
 The sidebar filters are disabled while the Control Center is active.
 
-![The full Control Center view showing all cards — Cloud Sync, Image Downloads, Bulk Move, Bulk Delete, Gallery Backup, Local Exports, and Storage Stats — with the System Terminal visible at the bottom](../screenshots/control-center-overview.png)
+![The full Control Center view showing all cards — Cloud Sync, Image Downloads, Bulk Move, Bulk Delete, Gallery Backup, Local Exports, and Storage Stats — with the System Terminal visible at the bottom](screenshots/control-center-overview.png)
 *The Control Center — all cloud and local operations in one place, with a live terminal at the bottom.*
 
 ### Cloud Sync
@@ -280,7 +280,7 @@ A **Recalculate** button refreshes the stats on demand.
 ### System Terminal
 A live console at the bottom of the Control Center that displays output from any running operation — sync logs, move confirmations, error messages, and progress indicators. Prompts for input from the user as required for some operations. Output is color-coded and monospaced. The terminal can be cleared at any time, and its contents are selectable for copying.
 
-![The System Terminal streaming color-coded log output during a live Quick Sync — design names, folder assignments, and a running count of designs processed](../screenshots/sync-terminal.gif)
+![The System Terminal streaming color-coded log output during a live Quick Sync — design names, folder assignments, and a running count of designs processed](screenshots/sync-terminal.gif)
 *The System Terminal streams live output for every operation — logs, confirmations, errors, and interactive prompts.*
 
 ---
