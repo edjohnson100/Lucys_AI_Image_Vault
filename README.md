@@ -40,13 +40,20 @@ Artistly.ai automatically deletes designs from your personal library after one y
 
 > **Note:** Windows Defender SmartScreen may show a warning the first time since the app is not code-signed. Click **More info → Run anyway** to proceed.
 
-### macOS
+#### macOS
 
-1. **Download:** Download the latest `LucysVault-Mac-v1.0.dmg` from the Releases page.
+1. **Download** `Lucys_Vault_MAC_v1.0.dmg` from the assets section below.
 2. **Open the DMG:** Double-click the `.dmg` file to mount it. A Finder window opens showing the `Lucys_Vault` folder.
-3. **Install:** Drag the `Lucys_Vault` folder to your Desktop, Applications folder, or wherever you'd like to keep it.
-4. **Eject:** Drag the mounted disk image from your Desktop or Finder sidebar to Trash, or right-click and choose **Eject**.
-5. **First Launch:** Open the `Lucys_Vault` folder, right-click (or Control-click) `LucysVault.app`, choose **Open**, then click **Open** in the Gatekeeper dialog. This step is only required once.
+3. **Install** Drag the `LucysVault.app` file to the Applications folder or another folder of your choice. Drag the documentation and license files to your Desktop, Documents folder, or wherever you'd like to keep them.
+
+**or**
+
+1. **Download** `Lucys_Vault_MAC_v1.0_(portable_friendly).dmg` from the assets section below.
+2. **Open the DMG:** Double-click the `.dmg` file to mount it. A Finder window opens showing the `Lucys_Vault` folder.
+3. **Install** Drag the `Lucys_Vault` folder to your Desktop or wherever you'd like to keep it. The folder has the app and, documentation, and license files inside for your convenience.
+
+4. **Eject** the disk image when done.
+5. **First Launch:** Locate the `LucysVault.app` wherever you installed it. Right-click `LucysVault.app`, choose **Open**, then click **Open** in the Gatekeeper dialog. This one-time step is required because the app is not notarized.
 6. **First Run:** Choose a storage location for your library on the setup screen.
 
 > **Note:** The macOS build bundles its own Chromium browser for cloud sync automation. This makes the download significantly larger than the Windows version, but no additional browser installation is required.
