@@ -30,6 +30,8 @@ Artistly.ai automatically deletes designs from your personal library after one y
 
 ## Installation
 
+> **Read this first:** The release bundle includes `README_FIRST.txt` and `Lucys_AI_Image_Vault_Quick_Start_Guide.pdf`. Open `README_FIRST.txt` before launching — it covers the storage location decision you make on first run, which can't be changed later.
+
 ### Windows
 
 1. **Download:** Download the latest `LucysVault-Windows-v1.0.zip` from the Releases page and extract it. The ZIP contains a `Lucys_Vault` folder — move it to wherever you'd like to keep the application.
