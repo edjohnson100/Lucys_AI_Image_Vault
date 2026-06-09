@@ -1,14 +1,3 @@
-# Release Notes Archive
-*Scratchpad and archive for GitHub Releases. Copy the Release Title and Release Notes block directly into the GitHub Releases form.*
-
----
-
-## v1.0 — June 2026
-
-**Release Title**: v1.0 — Public Launch
-
-**Release Notes**:
-
 ## Lucy's AI Image Vault — v1.0
 
 Artistly.ai automatically deletes your designs after one year. **Lucy's AI Image Vault** is a free desktop app that syncs your full Artistly library to your local machine at full resolution — keeping your work safe permanently, in a fast searchable gallery you own and control.
