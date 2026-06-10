@@ -112,10 +112,26 @@ Installers/Output/
 # ----------------------
 # 10. Temporary & AI Files
 # ----------------------
+# Claude Code / Desktop
 .claude/
 CLAUDE.md
+CLAUDE.local.md
+
+# Gemini Code Assist
+.gemini/
+GEMINI.md
+.aiexclude
+
+# OpenAI Codex
+.codex
+.codexignore
+
+# Cross-Agent & General AI Files
+.uignore
+AGENTS.md
 temp_zips/
 files.txt
+*.aiignore
 
 # ----------------------
 # 11. Databases & Local Data
