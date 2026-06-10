@@ -41,6 +41,8 @@ Head to the Control Center tab at the top of the app to get started.
 
 RECOMMENDED FIRST SYNC: Set the "Quick Sync pages" input to 1 and click Quick Sync. This captures your 32 most recent designs from Artistly and downloads the images — enough real data to explore the gallery, try the filters, and get comfortable with the app before committing to a larger sync. Once you've had a look around, you can always come back and run a bigger sync to bring in the rest of your library.
 
-Watch the live terminal at the bottom for progress. When the sync finishes, click Refresh Data in the left sidebar to see your newly synced gallery.
+Watch the Task Console panel at the bottom for progress updates. When the sync finishes, click Refresh Data in the left sidebar to see your newly synced image count. Then, click the Main Gallery button in the top navigation to view your images.
+
+------------------------------------------------------
 
 * Mac Users Only: The first time you run a sync, macOS will ask you to approve "App Management" permission for the app. This is required because the app uses a built-in browser to connect to Artistly. You will find the prompt either as a system dialog or in System Settings → Privacy & Security → App Management. It's a bit of an inconvenience, but necessary step. You must close the Lucy's AI Image Vault app, edit the security setting, and relaunch the app. Once approved, syncs will run without further prompts going forward.
