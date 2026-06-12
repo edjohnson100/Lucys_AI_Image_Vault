@@ -212,7 +212,7 @@ The operational hub for syncing with Artistly, running bulk actions, managing ba
 
 The sidebar filters are disabled while the Control Center is active.
 
-![The full Control Center view showing all cards — Cloud Sync, Image Downloads, Bulk Move, Bulk Delete, Gallery Backup, Local Exports, and Storage Stats — with the System Terminal visible at the bottom](screenshots/control-center-overview.png)
+![The full Control Center view showing all cards — Cloud Sync, Image Downloads, Bulk Move, Bulk Delete, Gallery Backup, Local Exports, and Storage Stats — with the Task Console visible at the bottom](screenshots/control-center-overview.png)
 *The Control Center — all cloud and local operations in one place, with a live terminal at the bottom.*
 
 ### Cloud Sync
@@ -277,11 +277,11 @@ A live summary of how much space your vault is using:
 
 A **Recalculate** button refreshes the stats on demand.
 
-### System Terminal
-A live console at the bottom of the Control Center that displays output from any running operation — sync logs, move confirmations, error messages, and progress indicators. Prompts for input from the user as required for some operations. Output is color-coded and monospaced. The terminal can be cleared at any time, and its contents are selectable for copying.
+### Task Console
+A live console at the bottom of the Control Center that displays output from any running operation — sync logs, move confirmations, error messages, and progress indicators. Prompts for input from the user as required for some operations. Output is monospaced. The console can be cleared at any time, and its contents are selectable for copying.
 
-![The System Terminal streaming color-coded log output during a live Quick Sync — design names, folder assignments, and a running count of designs processed](screenshots/sync-terminal.gif)
-*The System Terminal streams live output for every operation — logs, confirmations, errors, and interactive prompts.*
+![The Task Console streaming log output during a live Quick Sync — design names, folder assignments, and a running count of designs processed](screenshots/sync-terminal.gif)
+*The Task Console streams live output for every operation — logs, confirmations, errors, and interactive prompts.*
 
 ---
 

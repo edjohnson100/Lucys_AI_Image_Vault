@@ -9,7 +9,7 @@ Welcome to Lucy's AI Image Vault! This application operates completely independe
 Move the `Lucys_Vault` folder from your download to its permanent home:
 
 *   **For Desktop Access:** Move the `Lucys_Vault` folder to your Desktop. This keeps your workspace clean and tidy. *(⚠️ Note: If you plan on keeping your vault completely self-contained inside this folder, please review the Cloud Backup Trap warning in STEP 3 before proceeding!)*
-*   **For Standard Storage:** Windows users can place the `Lucys_Vault` folder on their main `C:` drive. Mac users can drag the `Lucys_Vault` folder into the standard **Applications** folder.
+*   **For Standard Storage:** Windows users can place the `Lucys_Vault` folder on their main `C:` drive. Mac users can place the `Lucys_Vault` folder in their **home folder** (the one with your name, shown in Finder's sidebar) or in **Documents**. *(⚠️ Note: If you use Documents, please review the Cloud Backup Trap warning in STEP 3 before proceeding!)*
 *   **For On-The-Go Storage:** If you want to use the application from an external hard drive or a portable thumb drive, move the `Lucys_Vault` folder directly onto that specific device.
 
 ---
@@ -58,6 +58,6 @@ Click your chosen sync button. The app will open a browser window and navigate t
 *   If your Artistly session is still active, the sync begins immediately with no input needed.
 *   If you have been logged out, the browser will pause at the login page — sign in normally and the sync will resume on its own.
 
-Watch the **System Terminal** at the bottom of the screen for live progress. When the sync finishes, click **Refresh Data** in the left sidebar to see your newly synced gallery!
+Watch the **Task Console** at the bottom of the screen for live progress. When the sync finishes, click **Refresh Data** in the left sidebar to see your newly synced gallery!
 
 > *🍏 Mac Users: Cloud sync uses a bundled browser to connect to Artistly. The first time you run a sync, macOS may prompt you for **App Management** permission — grant it when asked and then close and re-open Lucy's AI Image Vault, as this permission is required for the sync feature to work. I have included a short video demo with your download showing exactly what this looks like and how to clear it quickly.*
